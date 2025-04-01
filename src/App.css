@@ -1,0 +1,259 @@
+*{margin: 0 ;}
+.conteiner{margin: 0 auto;
+max-width: 60% ;}
+
+
+.conteinerc{height:100% ;
+width: 100%;}
+.fundo{background-color: rgb(255, 255, 255);}
+
+.cabesalho{
+    width:100%;
+    height: 100px;
+     background-color:rgb(238, 195, 52);
+ display: flex;
+align-items:center;
+justify-content: center;
+gap:50px ;
+}
+.rodape {
+    background-color: #584b2f; 
+    color: white;
+    text-align: center;
+    padding: 20px; 
+     
+    bottom: 0; 
+    width: 100%; 
+    font-size: 13px;
+     display: flex;
+    align-items: center;
+justify-content: center; 
+flex-direction: row;
+
+}
+    
+    .titulo{font-family:fantasy;
+    color: aliceblue;
+font-size: 30px;}
+
+.divImg{ height: 70px;}
+.logo{height: 100%;} 
+
+
+.conteiner2{height:100% ;
+    width: 100%;
+    display: flex;
+align-items: center;
+justify-content: center;}
+    .img1{
+        width: 500px;
+    }
+
+    .topo{width: 100%;
+        height: 200px;
+        background: url(https://www.receitasnestle.com.br/sites/default/files/srh_recipes/a7e0cd2ad28375c69f8b96c7dfc91645.jpg) ;
+        background-position: 60% 20%;
+         background-size: cover;
+         background-repeat: no-repeat;
+         font-family: Ga Maamli;
+         font-size: 25px;
+         color: aliceblue;
+         display: flex;
+         align-items: center;
+     justify-content: center; 
+     flex-direction: column;
+      }
+
+
+.cor{color: black;
+    text-align: center;
+    font-size: 40px;
+    display: flex;
+    font-family: Neucha;
+    align-items: center;
+justify-content: center; 
+flex-direction: column}
+
+      .fontr{ color: rgb(255, 255, 252);
+        text-align: center;
+        font-size: 40px;
+        display: flex;
+        font-family: Neucha;
+        align-items: center;
+    justify-content: center; 
+    flex-direction: column;}
+        
+
+.new{ font-family: Ga Maamli;
+    font-size: 50px;
+    color: rgb(254, 51, 0);
+}
+    .new1{position: relative;
+    bottom:25px;
+right: 5px;}
+       
+     .caixa{width: 300px;
+        height: 200px;
+      
+        border-radius: 6%; margin: 30px 20px 10px 10px;
+        background: url();
+      
+        background-position: 50% 20%;
+         background-size: cover;
+         background-repeat: no-repeat;}
+
+
+
+         .conteiner3{width: 50%;
+            margin: 0 auto;
+              display: grid;
+              gap:30px 30px ;
+              grid-template-columns: repeat(auto-fill ,minmax(200px , 1fr))  
+              ;
+              place-items: center center;
+              margin: 40px;
+             
+                             
+          }
+          
+          
+          
+          .gridItem{width: 300px;
+          height: 200px;
+
+          }
+          
+       .caixa1{background: url(https://i.pinimg.com/736x/96/01/ac/9601ac2b697d557c14c115c58e0ff567.jpg);
+    border-radius: 15%;
+    background-position: 50% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+    .caixa10{
+        background:url();
+        background-position: 50% 20%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 15%;}
+
+    .caixa9{background:url(https://i.pinimg.com/736x/f9/fa/4d/f9fa4dc50cd77513c79f936e36b84237.jpg);
+        background-position: 50% 20%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 15%;}
+
+
+        .caixa8{background:url(https://i.pinimg.com/736x/de/f4/ee/def4ee0a5a1f6f4ba1f3c22574201e60.jpg);
+            background-position: 50% 30%;
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 15%;} 
+            
+            
+            .caixa7{background:url(https://i.pinimg.com/736x/8e/18/e0/8e18e00b3c833c43353d77e60eba8ceb.jpg);
+                background-position: 50% 30%;
+                background-size: cover;
+                background-repeat: no-repeat;
+                border-radius: 15%;} 
+
+
+                 .caixa6{background:url(https://chaparadois.com.br/wp-content/uploads/2024/05/Creme-de-Leite-Ninho-para-Rechear-Cobrir-e-Confeitar-Bolos-672x352.jpg);
+                    background-position: 50% 20%;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    border-radius: 15%;} 
+
+
+                     .caixa5{background:url(https://i.pinimg.com/736x/ba/fc/b5/bafcb5742be388214c92dd4bbc259bc7.jpg);
+                        background-position: 50% 40%;
+                        background-size: cover;
+                        background-repeat: no-repeat;
+                        border-radius: 15%;}
+
+
+                          
+
+
+                             .caixa4{background:url(https://i.pinimg.com/736x/35/e9/47/35e9477a071f35e683e3a79776679baf.jpg);
+                                background-position: 50% 20%;
+                                background-size: cover;
+                                background-repeat: no-repeat;
+                                border-radius: 15%;} 
+
+
+                                 .caixa3{background:url(https://phygital-files.mercafacil.com/allshopping/uploads/produto/pao_de_mel_doce_de_leite_42e7fc83-8010-4c3c-814f-02c22cc4ccbd.jpeg);
+                                    background-position: 50% 20%;
+                                    background-size: cover;
+                                    background-repeat: no-repeat;
+                                    border-radius: 15%;} 
+
+
+                                     .caixa2{background:url(https://i.pinimg.com/736x/b3/66/e0/b366e05493666e42835d49b43347ac2a.jpg);
+                                        background-position: 50% 20%;
+                                        background-size: cover;
+                                        background-repeat: no-repeat;
+                                        border-radius: 15%;}
+           
+        
+         .ali{display: flex;
+        align-items: center;
+    justify-content: center;}
+
+    .divImgr{ height: 30px;}
+    .logor{height: 100%;}
+
+    .roda{ margin: 0px 20px 0px 0px ; }
+    .c{ display: flex;
+        align-items: center;
+        justify-content: center; 
+        flex-direction: row;}
+
+        @media (min-width:629px){
+            .fundo{background-color: rgb(251, 255, 255);}
+            
+            .conteiner3{width: 100%;
+                margin: 0 auto;
+                  display: grid;
+                  gap:30px 80px ;
+                  grid-template-columns: repeat(2, 250px);  
+                  ;
+                  grid-column: 1/2;
+                  grid-row: 1/2;
+                  place-items: center center;
+                  margin: 60px 50px 200px 100px;}
+
+        }
+     
+
+        @media (min-width:820px){
+            .fundo{background-color: rgb(251, 255, 255);}
+            
+            .conteiner3{width: 100%;
+                margin: 0 auto;
+                  display: grid;
+                  gap:30px 80px ;
+                  grid-template-columns: repeat(2, 250px);  
+                  ;
+                  grid-column: 1/2;
+                  grid-row: 1/2;
+                  place-items: center center;
+                  margin: 100px 300px 40px 300px;}
+
+        }
+        
+        @media (min-width:1300px){
+            .fundo{width: 100%;
+                background-color: rgb(251, 255, 255);}
+            
+            .conteiner3{width: 80%;
+                margin: 0 auto;
+                  display: grid;
+                  gap:30px 100px ;
+                  grid-template-columns: repeat(4, 250px);  
+                  ;
+                  grid-column: 1/2;
+                  grid-row: 1/2;
+                  place-items: center center;
+                  margin: 100px 100px 200px 0px;}
+
+        };
