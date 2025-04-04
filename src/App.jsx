@@ -13,7 +13,7 @@ function App() {
            <div className="comteinerc">
            <div className="cabesalho">
            <div className="divImg">
-         <img className="logo" src="https://img.icons8.com/?size=100&id=rpU3BbTVADvt&format=png&color=000000" />
+         <img className="logo" src="https://img.icons8.com/?size=100&id=rpU3BbTVADvt&format=png&color=000000"/>
          </div>
               <div>
                  <p className="titulo">Pão De Mel</p>
@@ -25,8 +25,8 @@ function App() {
         
         
          <div className="conteiner2">
-            <div className="topo " > 
-             <p>Não e so Chocolate e Uma  </p>
+            <div className="topo"> 
+             <p>Não e so Chocolate e Uma</p>
               <p>EXPERIENCIA</p>
               </div>
           </div>
@@ -51,35 +51,35 @@ function App() {
                </div>
            
               <div className="gridItem caixa5 fontr">
-              <p >NINHO</p>
+              <p>NINHO</p>
             </div>
             
-            <div className="gridItem caixa6 new ">
+            <div className="gridItem caixa6 new">
               <p className="new1">NEW</p>
-              <p className=" cor">NINHO</p>
+              <p className="cor">NINHO</p>
             </div>
            
             <div className="gridItem  caixa7 fontr">
-              <p className="cor">MUSE DE LIMAO </p>
+              <p className="cor">MUSE DE LIMAO</p>
             </div>
             
-             <div className="gridItem caixa8 new "> 
+             <div className="gridItem caixa8 new"> 
                <p className="new1">NEW</p>
-               <p className=" cor">MUSE DE LIMAO</p>
+               <p className="cor">MUSE DE LIMAO</p>
               </div>
           </div>
 
         </div>
         </div>
 
-         <footer className="rodape ">
+         <footer className="rodape">
             <div className="roda">
 
              <div className="divImgr">
-              <img className="logor " src="https://img.icons8.com/?size=100&id=El7pTE24c3iC&format=png&color=000000" />
-              <img className="logor " src=" https://img.icons8.com/?size=100&id=FeFKy6pAkhxv&format=png&color=000000" />
-              <img className="logor " src=" https://img.icons8.com/?size=100&id=21088&format=png&color=000000" />
-              <img className="logor " src="https://img.icons8.com/?size=100&id=33029&format=png&color=000000" />
+              <img className="logor" src="https://img.icons8.com/?size=100&id=El7pTE24c3iC&format=png&color=000000"/>
+              <img className="logor" src=" https://img.icons8.com/?size=100&id=FeFKy6pAkhxv&format=png&color=000000"/>
+              <img className="logor" src=" https://img.icons8.com/?size=100&id=21088&format=png&color=000000"/>
+              <img className="logor" src="https://img.icons8.com/?size=100&id=33029&format=png&color=000000"/>
 
             </div>
             <div><p>Pães de mel e cia MG/PR</p>
