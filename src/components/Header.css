@@ -1,15 +1,21 @@
-.divImg{ height: 70px;}
-.titulo{font-family:fantasy;
+.divImg{
+     height: 70px;
+    }
+.titulo{
+    font-family:fantasy;
     color: aliceblue;
-font-size: 30px;}
-.logo{height: 100%;} 
+    font-size: 30px;
+}
+.logo{
+    height: 100%;
+} 
 .cabesalho{
     width:100%;
     height: 100px;
      background-color:rgb(238, 195, 52);
- display: flex;
-align-items:center;
-justify-content: center;
-gap:50px ;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap:50px ;
 }
 

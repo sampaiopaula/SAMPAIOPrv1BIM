@@ -10,16 +10,16 @@ function App() {
 
   return (
     <>
-        {/* <div className='fundo'>
+        <div className='fundo'>
            <div className="comteiner">         
-           <div className="comteinerc"> */}
+           <div className="comteinerc">
            <Header/>
-{/* 
+
             </div>
-          </div> */}
+          </div>
+     
         
-        
-         {/* <div className="conteiner2">
+         <div className="conteiner2">
             <div className="topo"> 
              <p>Não é so Chocolate e Uma</p>
               <p>EXPERIENCIA</p>
@@ -64,10 +64,11 @@ function App() {
         </div> <div className="gridItem caixa6 new">
               <p className="new1">NEW</p>
               <p className="cor">NINHO</p>
-            </div> */}
+            </div>
            
 
          <Footer/>
         
         </>
 )}
+export default App
