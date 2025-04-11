@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-        <div className='fundo'>
+        <div className="fundo">
            <div className="comteiner">         
            <div className="comteinerc">
            <Header/>
@@ -19,22 +19,17 @@ function App() {
           </div>
      
         
-         <div className="conteiner2">
-            <div className="topo"> 
-             <p>Não é so Chocolate e Uma</p>
-              <p>EXPERIENCIA</p>
-              </div>
-          </div>
+        
 
-         <div className="ali">
+       <div className="ali">
             <div className="conteiner3">
             
              <div className="gridItem caixa1 fontr">
-               <p>DOCE DE LEITE </p>
+               <p>DOCE DE LEITE</p>
              </div>
             
              <div className="gridItem caixa2 fontr">
-               <p>DOCE DE LEIE</p>
+               <p>DOCE DE LEiTE</p>
              </div>
             
              <div className="gridItem caixa3 fontr">
@@ -58,13 +53,15 @@ function App() {
                <p className="new1">NEW</p>
                <p className="cor">MUSE DE LIMAO</p>
               </div>
+
+              <div className="gridItem caixa6 new">
+                <p className="new1">NEW</p>
+                <p className="cor">NINHO</p>
+            </div>
           </div>
 
         </div>
-        </div> <div className="gridItem caixa6 new">
-              <p className="new1">NEW</p>
-              <p className="cor">NINHO</p>
-            </div>
+        </div> 
            
 
          <Footer/>

@@ -13,6 +13,12 @@ function Header() {
                 <p className="titulo">Pão De Mel  </p>
                 </div>
             </div>
+            <div className="conteiner2">
+            <div className="topo"> 
+             <p>Não é so Chocolate e Uma</p>
+              <p>EXPERIENCIA</p>
+              </div>
+          </div>
 
         </>
     )

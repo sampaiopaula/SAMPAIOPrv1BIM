@@ -116,27 +116,15 @@
         right: 5px;
 }
        
-     .caixa{
-        width: 300px;
-        height: 200px;
-        border-radius: 6%;
-        margin: 30px 20px 10px 10px;
-        background: url();
-        background-position: 50% 20%;
-        background-size: cover;
-        background-repeat: no-repeat;
-        }
-
-
 
          .conteiner3{
             width: 50%;
             margin: 0 auto;
             display: grid;
             gap:30px 30px ;
-            grid-template-columns: repeat(auto-fill ,minmax(200px , 1fr));
+            grid-template-columns: repeat(auto-fill ,minmax(300px , 1fr));
             place-items: center center;
-            margin: 40px;                
+            margin: 30px;                
           }
         
           
@@ -215,6 +203,13 @@
                 border-radius: 15%;
                                     
         } 
+
+        .caixa4{background:url(https://i.pinimg.com/736x/35/e9/47/35e9477a071f35e683e3a79776679baf.jpg);
+            background-position: 50% 20%;
+            background-size: cover;
+            background-repeat: no-repeat;
+            border-radius: 15%;} 
+
 
       .caixa2{
               background:url(https://i.pinimg.com/736x/b3/66/e0/b366e05493666e42835d49b43347ac2a.jpg);
