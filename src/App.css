@@ -13,7 +13,7 @@
     width: 100%;
 }
 .fundo{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(137, 99, 43);
 }
 
 .cabesalho{
@@ -67,11 +67,11 @@
 
     .topo{
         width: 100%;
-        height: 200px;
-        background: url(https://www.receitasnestle.com.br/sites/default/files/srh_recipes/a7e0cd2ad28375c69f8b96c7dfc91645.jpg) ;
+        height: 250px;
+        background: url(https://i.pinimg.com/736x/94/0e/c8/940ec8c64c1c18e57d72f39c7e9b9250.jpg) ;
         background-position: 60% 20%;
-        background-size: cover;
-        background-repeat: no-repeat;
+       
+       
         font-family: Ga Maamli;
         font-size: 25px;
         color: aliceblue;
