@@ -115,7 +115,10 @@
         bottom:25px;
         right: 5px;
 }
-       
+.ali{
+    display: flex;
+    align-items: center;
+    justify-content: center;}
 
          .conteiner3{
             width: 50%;

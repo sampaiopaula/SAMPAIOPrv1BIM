@@ -1,0 +1,124 @@
+
+.conteiner3{
+    width: 50%;
+    margin: 0 auto;
+    display: grid;
+    gap:30px 30px ;
+    grid-template-columns: repeat(auto-fill ,minmax(300px , 1fr));
+    place-items: center center;
+    margin: 30px;                
+  }
+
+  
+  .gridItem{
+    width: 300px;
+    height: 200px;
+  }
+  
+.caixa1{
+background: url(https://i.pinimg.com/736x/96/01/ac/9601ac2b697d557c14c115c58e0ff567.jpg);
+border-radius: 15%;
+background-position: 50% 40%;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.caixa10{
+background:url();
+background-position: 50% 20%;
+background-size: cover;
+background-repeat: no-repeat;
+border-radius: 15%;
+}
+
+.caixa9{
+background:url(https://i.pinimg.com/736x/f9/fa/4d/f9fa4dc50cd77513c79f936e36b84237.jpg);
+background-position: 50% 20%;
+background-size: cover;
+background-repeat: no-repeat;
+border-radius: 15%;
+}
+
+.caixa8{
+    background:url(https://i.pinimg.com/736x/de/f4/ee/def4ee0a5a1f6f4ba1f3c22574201e60.jpg);
+    background-position: 50% 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;
+}
+
+    
+    
+.caixa7{
+    background:url(https://i.pinimg.com/736x/8e/18/e0/8e18e00b3c833c43353d77e60eba8ceb.jpg);
+    background-position: 50% 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;
+} 
+
+
+.caixa6{
+    background:url(https://chaparadois.com.br/wp-content/uploads/2024/05/Creme-de-Leite-Ninho-para-Rechear-Cobrir-e-Confeitar-Bolos-672x352.jpg);
+    background-position: 50% 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;  
+} 
+
+
+.caixa5{
+    background:url(https://i.pinimg.com/736x/ba/fc/b5/bafcb5742be388214c92dd4bbc259bc7.jpg);
+    background-position: 50% 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;
+            
+}
+
+
+.caixa3{
+        background:url(https://phygital-files.mercafacil.com/allshopping/uploads/produto/pao_de_mel_doce_de_leite_42e7fc83-8010-4c3c-814f-02c22cc4ccbd.jpeg);
+        background-position: 50% 20%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 15%;
+                            
+} 
+
+.caixa4{background:url(https://i.pinimg.com/736x/35/e9/47/35e9477a071f35e683e3a79776679baf.jpg);
+    background-position: 50% 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;} 
+
+
+.caixa2{
+      background:url(https://i.pinimg.com/736x/b3/66/e0/b366e05493666e42835d49b43347ac2a.jpg);
+      background-position: 50% 20%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      border-radius: 15%;
+    }
+   
+
+    .ali{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.new1{
+    position: relative;
+    bottom:25px;
+    right: 5px;
+}
+.fontr{ 
+    color: rgb(255, 255, 252);
+    text-align: center;
+    font-size: 40px;
+    display: flex;
+    font-family: Neucha;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: column;
+}
